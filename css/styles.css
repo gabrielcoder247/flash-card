@@ -3,54 +3,64 @@
     text-align: center;
 }
 .javascript {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
     margin-top: 20px;
     margin-bottom:40px;
+    margin-left: 150px;
 
 
 }
 .operators {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
     margin-top: 20px;
     margin-bottom:40px;
+    margin-left: 40px;
 
 }
 .css {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 
 }
 .jquery {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 
 }
 .functions {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 
 }
 .methods {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 150px;
 }
 .variables {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
     margin-top: 20px;
     margin-bottom:40px;
+    margin-left: 150px;
 }
 .strings {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 }
 .Html {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 }
 .booleans {
-    width: 250px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    margin-left: 40px;
 }
