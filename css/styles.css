@@ -1,0 +1,56 @@
+
+.header{
+    text-align: center;
+}
+.javascript {
+    width: 250px;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom:40px;
+
+
+}
+.operators {
+    width: 250px;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom:40px;
+
+}
+.css {
+    width: 250px;
+    height: 80px;
+
+}
+.jquery {
+    width: 250px;
+    height: 80px;
+
+}
+.functions {
+    width: 250px;
+    height: 80px;
+
+}
+.methods {
+    width: 250px;
+    height: 80px;
+}
+.variables {
+    width: 250px;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom:40px;
+}
+.strings {
+    width: 250px;
+    height: 80px;
+}
+.Html {
+    width: 250px;
+    height: 80px;
+}
+.booleans {
+    width: 250px;
+    height: 80px;
+}
