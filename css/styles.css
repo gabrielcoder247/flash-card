@@ -7,7 +7,7 @@
     height: 100px;
     margin-top: 20px;
     margin-bottom:40px;
-    margin-left: 150px;
+    margin-left: 40px;
 
 
 }
@@ -22,49 +22,65 @@
 .css {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
+    margin-bottom:40px;
     margin-left: 40px;
 
 }
 .jquery {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
     margin-left: 40px;
 
 }
 .functions {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
+    margin-bottom:40px;
     margin-left: 40px;
 
 }
 .methods {
     width: 300px;
     height: 100px;
-    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom:40px;
+    margin-left: 40px;
 }
 .variables {
     width: 300px;
     height: 100px;
     margin-top: 20px;
     margin-bottom:40px;
-    margin-left: 150px;
+    margin-left: 40px;
 }
-.strings {
+.Strings {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
+    margin-bottom:40px;
     margin-left: 40px;
 }
 .Html {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
+    margin-bottom:40px;
     margin-left: 40px;
 }
 .booleans {
     width: 300px;
     height: 100px;
+    margin-top: 20px;
     margin-left: 40px;
+    margin-bottom:40px;
 }
 
 .footer{
     text-align: center
+}
+.p {
+    display: none;
 }
