@@ -8,6 +8,7 @@
     margin-top: 20px;
     margin-bottom:40px;
     margin-left: 40px;
+    
 
 
 }
@@ -81,6 +82,10 @@
 .footer{
     text-align: center
 }
-.p {
+.p1 {
     display: none;
+    text-align: center;
+}
+.header1{
+    text-align: center;
 }
