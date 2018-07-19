@@ -2,5 +2,37 @@ $(document).ready(function(){
 $(".javascript").click(function(){
     $("header1").toggle();
     $(".p1").toggle();
-});   
+}); 
+$(".operators").click(function(){
+    $("header2").toggle();
+    $(".p2").toggle();  
+});
+$(".functions").click(function(){
+    $("header3").toggle();
+    $(".p3").toggle();
+});
+$(".variables").click(function(){
+    $("header4").toggle();
+    $(".p4").toggle();
+});
+$(".Booleans").click(function(){
+    $("header5").toggle();
+    $(".p5").toggle();
+});
+$(".Strings").click(function(){
+    $("header6").toggle();
+    $(".p6").toggle();
+});
+$(".Methods").click(function(){
+    $("header7").toggle();
+    $(".p7").toggle();
+});
+$(".Html").click(function(){
+    $("header8").toggle();
+    $(".p8").toggle();
+});
+$(".Css").click(function(){
+    $("header9").toggle();
+    $(".p9").toggle();
+});
 });

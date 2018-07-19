@@ -79,13 +79,37 @@
     margin-bottom:40px;
 }
 
-.footer{
+.footer {
     text-align: center
 }
 .p1 {
     display: none;
     text-align: center;
 }
-.header1{
+.header1 {
+    text-align: center;
+}
+.header2 {
+    text-align: center;
+}
+.header3 {
+    text-align: center;
+}
+.header4 {
+    text-align: center;
+}
+.header5 {
+    text-align: center;
+}
+.header6 {
+    text-align: center;
+}
+.header7 {
+    text-align: center;
+}
+.header8 {
+    text-align: center;
+}
+.header9 {
     text-align: center;
 }
